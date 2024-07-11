@@ -1,0 +1,13 @@
+{
+    "name": "coffeemessages",
+    "version": "1.0.0",
+    "description": "",
+    "main": "DailyCoffee.js",
+    "type": "module",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC"
+  }
+  
