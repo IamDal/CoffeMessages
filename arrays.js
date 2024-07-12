@@ -1,3 +1,4 @@
+// Random types of coffee
 export const coffee = [
     "Jamaican Blue Mountain Coffee",
     "Kenyan Coffee",
@@ -8,6 +9,7 @@ export const coffee = [
     "Honduran Coffee"
 ];
 
+// Random greeting or intro
 export const greeting = [
     "Did you know,",
     "Quick fact,",
@@ -17,6 +19,7 @@ export const greeting = [
     "Good news,",
 ];
 
+// random facts about coffee
 export const coffeFacts = [
     "drinkers may enjoy more overall health benefits than people who don't drink coffee.",
     "drinkers were 17% less likely to die early from any cause, 19% less likely to die of heart disease and 18% less likely to develop cancer than those who don't drink coffee.",
@@ -29,6 +32,8 @@ export const coffeFacts = [
     "could be linked to a lower risk of depression and may even be linked to a lower risk of death by suicide.",
     "could improve physical performance and endurance when consumed before exercising."
 ];
+
+// random closing
 export const closing = [
     "Java nice day!",
     "Have a good day, brew can do it!",
@@ -36,6 +41,8 @@ export const closing = [
     "Enjoy your day, just brew it!",
     "Stay grounded!"
 ];
+
+// Ascii art
 export const art = [
 '                          (',
 '                            )     (',
