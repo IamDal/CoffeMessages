@@ -39,4 +39,4 @@ You can download files locally or run on a cloud codespace.
 ## Screenshot
 This is a sample screenshot of the script:
 
-![Random coffee fact](/CoffeMessages/coffee_img.png "Random coffee facts.")
+![Random coffee fact](./coffee_img.png "Random coffee facts.")
