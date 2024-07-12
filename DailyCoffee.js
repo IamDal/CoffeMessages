@@ -11,7 +11,8 @@ function dailyCoffee() {
     let randGreeting = Math.floor(Math.random()* greeting.length);
     let randFact = Math.floor(Math.random()* coffeFacts.length);
     let randClose = Math.floor(Math.random()* closing.length);
-    return `${greeting[randGreeting]} ${coffee[randCoffee]} ${coffeFacts[randFact]} ${closing[randClose]}\n${art.join("\n")}`;   
+    let tab = "                     "
+    return `${greeting[randGreeting]} ${coffee[randCoffee]} ${coffeFacts[randFact]}\n${art.join("\n")} ${tab}${closing[randClose]}`;   
 };
 
 // Test case
